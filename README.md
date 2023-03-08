@@ -1,2 +1,2 @@
-# Escola-Oswaldo-Plukton-II
-Escola Oswaldo Plukton II
+# Escola-Oswaldo-Plakton-II
+Escola Oswaldo Plakton II

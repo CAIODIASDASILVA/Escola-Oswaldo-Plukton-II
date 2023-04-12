@@ -5,8 +5,20 @@
 
 
 
-.Escola Plankiton II{
-
+.cabecalho{
     display: flex;
-    background-color: rgb(104, 228, 74);
+    background-color: rgb(3, 156, 245);
+    color:rgb(0, 0, 0);
+    justify-content: space-around;
+    align-items: center;
 }
+.cabecalho-lista_item{
+    display: inline-block;
+}
+
+.cabecalho-lista{
+    margin: 50px;
+    font-size: 30px
+}
+
+

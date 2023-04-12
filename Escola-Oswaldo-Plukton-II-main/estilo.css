@@ -1,24 +1,43 @@
+
+estilo.cssFolha de estilo
+
+index.html
+HTML
+Comentários da turma
+
 *{
     margin: 0;
     padding: 0;
 }
 
-
-
 .cabecalho{
     display: flex;
-    background-color: rgb(3, 156, 245);
-    color:rgb(0, 0, 0);
+    background-color: #00ffdd;
+    color: white;
     justify-content: space-around;
     align-items: center;
 }
-.cabecalho-lista_item{
+.cabecalho-lista__item{
     display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+
+}
+.cabecalho-imagem{
+    width: 20%;
 }
 
-.cabecalho-lista{
-    margin: 50px;
-    font-size: 30px
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#008b80, #2b5761);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
-
+estilo.css
+Exibindo estilo.css…

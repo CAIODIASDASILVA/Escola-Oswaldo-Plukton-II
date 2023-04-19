@@ -1,43 +1,33 @@
-
-estilo.cssFolha de estilo
-
-index.html
-HTML
-Comentários da turma
-
 *{
     margin: 0;
     padding: 0;
 }
 
+
 .cabecalho{
     display: flex;
-    background-color: #00ffdd;
-    color: white;
+    background-color: rgb(3, 156, 245);
+    color:rgb(0, 0, 0);
     justify-content: space-around;
     align-items: center;
 }
-.cabecalho-lista__item{
+.cabecalho-lista_item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-
-}
-.cabecalho-imagem{
-    width: 20%;
 }
 
-.escola-imagem{
-    width: 25%;
-}
-.escola{
-    background-image: linear-gradient(#008b80, #2b5761);
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+.Escola.foto{
+    margin: 50px;
+    font-size: 30px
 }
 
-estilo.css
-Exibindo estilo.css…
+
+.watt{
+    position: absolute;
+    top: 0;
+    margin: 50px
+}
+
+.escola-plankton-II{
+    position: relative;
+}
+
